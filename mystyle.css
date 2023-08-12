@@ -1,0 +1,62 @@
+.font_18px {
+  font-size: 18px;
+}
+
+.font_19px {
+  font-size: 19px;
+  color: #800000;
+}
+
+.font_20px {
+  font-size: 20px;
+  color: #0000ff;
+}  
+
+.font_21px {
+  font-size: 21px;
+  color: #ff0000;
+}
+
+.font_22px {
+  font-size: 22px;
+  color: #ff0000;
+}
+
+.font_23px {
+  font-size: 23px;
+  color: #0000ff;
+}
+
+.font_27px {
+  font-size: 27px;
+  color: #800000;
+}
+
+.font_30px {
+  font-size: 30px;
+  color: #800000;
+}
+
+div.a {
+  text-align: left;
+}
+
+div.b {
+  text-align: center;
+}
+
+div.c {
+  text-align: right;
+}
+
+.reddit {
+  color: red;
+}
+
+.greenit {
+  color: green;
+}
+
+.blueit {
+  color: blue;
+}
