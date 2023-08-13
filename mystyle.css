@@ -49,6 +49,18 @@ div.c {
   text-align: right;
 }
 
+div.left {
+  text-align: left;
+}
+
+div.center {
+  text-align: center;
+}
+
+div.right {
+  text-align: right;
+}
+
 .reddit {
   color: red;
 }
@@ -60,3 +72,4 @@ div.c {
 .blueit {
   color: blue;
 }
+
