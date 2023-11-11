@@ -22,6 +22,11 @@
   color: #ff0000;
 }
 
+.font_22pxB {
+  font-size: 22px;
+  color: #0000ff;
+}
+
 .font_23px {
   font-size: 23px;
   color: #0000ff;
@@ -35,18 +40,6 @@
 .font_30px {
   font-size: 30px;
   color: #800000;
-}
-
-div.a {
-  text-align: left;
-}
-
-div.b {
-  text-align: center;
-}
-
-div.c {
-  text-align: right;
 }
 
 div.left {
@@ -72,4 +65,28 @@ div.right {
 .blueit {
   color: blue;
 }
+.img-portrait {
+   display: none;
+   width: 100%;
+}
 
+.text-landscape {
+   display: none;
+   width: 100%;
+}
+
+@media only screen and (orientation: portrait) {
+   .img-portrait {
+     display: block;
+     width: 100%;
+     align: center;
+   }
+}
+
+@media only screen and (orientation: landscape) {
+   .text-landscape {
+     display: block;
+     width: 100%;
+     align: center;
+   }
+}
