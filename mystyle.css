@@ -1,15 +1,16 @@
 .font_16px {
   font-size: 16px;
-  color: #800000;
+  color: #640000;
 }
 
 .font_18px {
   font-size: 18px;
+  color: #640000;
 }
 
 .font_19px {
   font-size: 19px;
-  color: #800000;
+  color: #640000;
 }
 
 .font_20px {
@@ -27,7 +28,7 @@
   color: #ff0000;
 }
 
-.font_22pxB {
+.font_22px {
   font-size: 22px;
   color: #0000ff;
 }
@@ -39,12 +40,12 @@
 
 .font_27px {
   font-size: 27px;
-  color: #800000;
+  color: #640000;
 }
 
 .font_30px {
   font-size: 30px;
-  color: #800000;
+  color: #640000;
 }
 
 div.left {
